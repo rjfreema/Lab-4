@@ -3,7 +3,7 @@
 
 .if{
 	width: auto;
-	height: 600px;
+	height: 565px;
 	background-color: black;
 	
 }
@@ -12,7 +12,7 @@
 	
 width: 400px;
 padding-top: 50px;
-margin-bottom:-15px;
+margin-bottom:-25px;
 margin-left: -5px;
 float: left;
 
@@ -28,6 +28,8 @@ width: 195px;
 }
 
 
+
+
 .Bottom Text  {
 float:left;
 }
@@ -39,13 +41,22 @@ font-family: "Helvetica, Arial, sans-serif" Helvetica, Arial, sans-serif;
 
 h2{ 
 color: #888888;
+text-align:center;
+font-size: 28px
+font-family: Helvetica, Arial, sans-serif; 
 }
+ 
  h3{
 	 font-size:17px;
  }
  
-.logo  {
-	width:250px;
-	float:left;
-	margin-top: 25 px;
+hr {
+	margin-top: -28px;
+}
+
+.middle2 img   {
+	width:200px;
+	float: right;
+	margin-top: -135 px;
+	
 }
