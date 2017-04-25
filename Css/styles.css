@@ -1,3 +1,47 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.if{
+	width: 600px;
+	height: 600px;
+	background-color: black;
+	
+}
+
+.if img {
+	
+width: 400px;
+padding-top: 50px;
+margin-bottom:-15px;
+margin-left: -5px;
+float: left;
+
+}
+
+.if p { 
+color: white;
+line-height: 1px;
+float: left;
+margin-top: 200 px;
+}
+
+
+.Bottom Text  {
+
+}
+
+h1{ 
+color:#CB4900;
+font-family: "Helvetica, Arial, sans-serif" Helvetica, Arial, sans-serif; 
+}
+
+h2{ 
+color: #888888;
+}
+ h3{
+	 font-size:17px;
+ }
+ 
+.logo img {
+	width:150px;
+}
