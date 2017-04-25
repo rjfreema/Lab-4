@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .if{
-	width: 600px;
+	width: auto;
 	height: 600px;
 	background-color: black;
 	
@@ -20,14 +20,16 @@ float: left;
 
 .if p { 
 color: white;
-line-height: 1px;
+line-height: 25px;
 float: left;
-margin-top: 200 px;
+margin-top: 300px;
+width: 195px;
+
 }
 
 
 .Bottom Text  {
-
+float:left;
 }
 
 h1{ 
@@ -42,6 +44,8 @@ color: #888888;
 	 font-size:17px;
  }
  
-.logo img {
-	width:150px;
+.logo  {
+	width:250px;
+	float:left;
+	margin-top: 25 px;
 }
